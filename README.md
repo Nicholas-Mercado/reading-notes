@@ -14,4 +14,4 @@ reading Notes for Code Fellows
 4. Getting to the solution is just as important as the solution itself
 ```
 
-![GrowthMindset](https://www.pdcourses.net/blog_images/AdobeStock351294657.jpeg)
+![GrowthMindset](/GM.jpeg)
