@@ -1,6 +1,10 @@
 # reading-notes
 reading Notes for Code Fellows
 
+## What is the Growth Mindset
+
+I feel the growth mindset is a way of moving forward with openness. A way of learning through both success and frustration and knowing that the only real way to fail is to give up[^1]. 
+
 
 ### What I learned about having a Growth Mindset
 
@@ -24,4 +28,6 @@ reading Notes for Code Fellows
   
 
 
-![GrowthMindset](/GM.jpeg)
+![GrowthMindset](/GM.jpeg =100x20)
+
+[^1]: This is me practising a a footnote.
