@@ -10,7 +10,7 @@ I feel the growth mindset is a way of moving forward with openness. A way of lea
 
 
 1. Always be open to new ideas  
-2. Its ok even great to not know something
+2. Its ok to not know something
 3. Getting to the solution is just as important as the solution itself
 
 
@@ -20,14 +20,14 @@ I feel the growth mindset is a way of moving forward with openness. A way of lea
   
   > There is no such thing as perfect, only better
 
-- Its ok to fail, nto give up
+- Its ok to fail, not give up
 
-- Its ok even great to not know something
+- Its ok even, great to not know something
 
 
   
 
 
-![GrowthMindset](/GM.jpeg =100x20)
+![GrowthMindset](/GM.jpg)
 
 [^1]: This is me practising a a footnote.
