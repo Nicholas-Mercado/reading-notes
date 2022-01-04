@@ -59,6 +59,7 @@ After file is edited git flags file
 You stage the edited file
 You commit stage changes
 
+[Table Of Contents](https://nicholas-mercado.github.io/reading-notes/home.html)
 
  
 
