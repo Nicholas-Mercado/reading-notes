@@ -59,6 +59,9 @@ After file is edited git flags file
 You stage the edited file
 You commit stage changes
 
+
+ 
+
 <!-- **Git commands**
   - git status
   	 - git add filename

@@ -26,6 +26,8 @@ Headings level 1 # - level 6 ######
 >Block Quotes
  - Ex > Block Quotes
 
+[Table Of Contents](https://nicholas-mercado.github.io/reading-notes/home.html)
+
 
 
 

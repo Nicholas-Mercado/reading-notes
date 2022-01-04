@@ -1,6 +1,5 @@
 ## Choosing a text Editor ##
 
-![.](code-editor.jpg)
 
 ## What is a text editor ##
 
@@ -21,3 +20,4 @@ Really you have to choose the best one that works for you.
     + dark themes, lights themes what ever you want
     + makes it easy on the eyes
 
+[Table Of Contents](https://nicholas-mercado.github.io/reading-notes/home.html)

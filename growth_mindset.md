@@ -23,10 +23,12 @@ I feel the growth mindset is a way of moving forward with openness. A way of lea
 
 - Its ok even, great to not know something
 
+[Table Of Contents](https://nicholas-mercado.github.io/reading-notes/home.html)
+
 
   
 
 
-![GrowthMindset](/GM.jpg)
+
 
 [^1]: This is me practising a a footnote.
