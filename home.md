@@ -14,7 +14,7 @@ I am always excited to learn new things, solve puzzles, and especially excited t
 3. [Learning Markdown](https://nicholas-mercado.github.io/reading-notes/The-Coders-Computer.html)
 3. [Learning Markdown](https://nicholas-mercado.github.io/reading-notes/The-Coders-Computer.html)
 
-<!--- ### Labs
+<!-- ### Labs
 1. Place Holder
 2. Place Holder
 3. Plave holder
