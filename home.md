@@ -9,14 +9,14 @@ I am always excited to learn new things, solve puzzles, and especially excited t
  ## Table Of Contents
 
 ### Readings
-1. Growth Mindset 
+1.  [Growth Mindset](https://nicholas-mercado.github.io/reading-notes/growth_mindset.html) 
 2. [The-Coders-Computer](https://nicholas-mercado.github.io/reading-notes/Learning-Markdown.html) 
 3. [Learning Markdown](https://nicholas-mercado.github.io/reading-notes/The-Coders-Computer.html)
+3. [Learning Markdown](https://nicholas-mercado.github.io/reading-notes/The-Coders-Computer.html)
 
-
-### Labs
+<!--- ### Labs
 1. Place Holder
 2. Place Holder
 3. Plave holder
 
-### Lecture Notes
+### Lecture Notes -->
