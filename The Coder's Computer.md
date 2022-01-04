@@ -1,6 +1,6 @@
 ## Choosing a text Editor ##
 
-!
+![.](https://pages.github.com/)
 
 ### What to look for ###
 
