@@ -23,6 +23,8 @@ I feel the growth mindset is a way of moving forward with openness. A way of lea
 
 - Its ok even, great to not know something
 
+![GM](Images/gm.jpg)
+
 [Table Of Contents](https://nicholas-mercado.github.io/reading-notes/home.html)
 
 
