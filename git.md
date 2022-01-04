@@ -1,6 +1,6 @@
 # Git 
 
-## Git
+
  
 Git is a Distributed Version Control systems (DVCS) that stores data ina file system in a series of snapshots
  

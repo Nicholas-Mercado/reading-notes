@@ -12,7 +12,7 @@ I am always excited to learn new things, solve puzzles, and especially excited t
 1.  [Growth Mindset](https://nicholas-mercado.github.io/reading-notes/growth_mindset.html) 
 2. [The-Coders-Computer](https://nicholas-mercado.github.io/reading-notes/Learning-Markdown.html) 
 3. [Learning Markdown](https://nicholas-mercado.github.io/reading-notes/The-Coders-Computer.html)
-3. [All About Git](https://nicholas-mercado.github.io/reading-notes/Git.html)
+3. [All About Git](https://nicholas-mercado.github.io/reading-notes/git.html)
 
 <!-- ### Labs
 1. Place Holder
