@@ -48,4 +48,8 @@
 - prompt() ask user for info
 - if/else() do this, and if not do this
 
+
+
 Adding a variable to function is called invoking
+
+[Table Of Contents](https://nicholas-mercado.github.io/reading-notes/home.html)
