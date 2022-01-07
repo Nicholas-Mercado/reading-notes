@@ -10,8 +10,21 @@ Any js operation / set of operations that should be reapted
 - function functionname(werds ) {
 - console.log(words)
   This is where you put your function code
-  }
+
+###Control flow
+  - is the order in wich the computer executes statements in a script\
+  
+```
+if (field==empty) {
+    promptUser();
+} else {
+    submitForm();
+}
+```
+- This script is a conditional statements, so it look for data in promptUser, and if it doesnt get it, it prompts with a else statement
+  
 ##### Parameters / arguments
+
 
  - Argumetns are the values that are passed into the function on invocation / call
 - Prameteres is a variable we define in the parentheses of our function
@@ -44,7 +57,3 @@ Any js operation / set of operations that should be reapted
 -   ||: Logical Or
 -   !: Logical Negation/Inverse
     -   '!="
-
-review.js
-
-<>
