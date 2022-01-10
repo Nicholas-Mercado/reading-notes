@@ -1,4 +1,4 @@
-## Choosing a text Editor ##
+# Choosing a text Editor ##
 
 
 ## What is a text editor ##

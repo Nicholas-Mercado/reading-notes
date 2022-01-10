@@ -1,33 +1,50 @@
 # reading-notes
-reading Notes for Code Fellows This is practice!
+This is a repository to store my reading notes from daily assignments in the Software Development program at Code Fellows 2022.
 
-## What is the Growth Mindset
-
-I feel the growth mindset is a way of moving forward with openness. A way of learning through both success and frustration and knowing that the only real way to fail is to give up[^1]. 
-
-
-### What I learned about having a Growth Mindset
+## Code 102 Reading Notes
+**ADD LINK TO C102 FOLDER
 
 
-1. Always be open to new ideas  
-2. Its ok to not know something
-3. Getting to the solution is just as important as the solution itself
 
+## Code 201 Reading Notes
 
-### Ways to remind my self to have a Growth Mindset
-
-- Always remeber what my 3rd grade music teacher told me.
+### _Table of Contents_
+- [Introductory HTML and Javascript](#introductory-html-and-javascript)
   
-  > There is no such thing as perfect, only better
-
-- Its ok to fail, not give up
-
-- Its ok even, great to not know something
-
-
+- [HTML Text, CSS Introduction, and Basic JavaScript Instructions](#html-text-css-introduction-and-basic-javascript-instructions)
   
+- [HTML Lists, CSS Boxes, JS Control Flow](#html-lists-css-boxes-js-control-flow)
+  
+- [What Google Learned About Teams](#what-google-learned-about-teams)
 
 
-![GrowthMindset](/GM.jpg)
+### Introductory HTML and Javascript
 
-[^1]: This is me practising a a footnote.
+### HTML Text, CSS Introduction, and Basic JavaScript Instructions
+
+### HTML Lists, CSS Boxes, JS Control Flow
+
+### HTML Links, CSS Layout, JS Functions
+
+### HTML Images; CSS Color & Text
+
+### JS Object Literals; The DOM
+
+### HTML Tables; JS Constructor Functions
+
+### More CSS Layout
+
+### Forms and Events
+
+### JS Debugging
+
+### Assorted Topics
+
+### Docs for the HTML -canvas- Element & Chart.js
+
+### Local Storage
+
+### CSS Transforms, Transitions, and Animations
+
+### What Google Learned About Teams
+

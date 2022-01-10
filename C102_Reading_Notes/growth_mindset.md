@@ -1,4 +1,4 @@
-
+# Growth Mindset
 
 ## What is the Growth Mindset
 
@@ -33,4 +33,4 @@ I feel the growth mindset is a way of moving forward with openness. A way of lea
 
 
 
-[^1]: This is me practising a a footnote.
+[^1]: This is me practicing a a footnote.
