@@ -16,12 +16,15 @@
 
 ### Iframes
   - Allow you to plant a window inside your page
-```
+  
+```html
+
   <Iframe
     Width=""
     height=""
     scr= "link">
     </Iframe>
+
 ```
 
 ### Escape Characters
@@ -30,16 +33,16 @@
 
 - \# = \&#35;
 - \& = \&#38;
-- \space = \&#32;
+- space = \&#32;
 - \! = \&#33;
-- \New \Line"= \&#10;
-- \Tab = \&#9;
+- New Line"= \&#10;
+- Tab = \&#9;
 
   
 ### New HTML5 Layout elements
 - Some new elements intead of using Ideas pg.430
 
-```
+
   - \<header>
   - \<aside> pg.436
   - \<nav>
@@ -49,7 +52,7 @@
     - This element is used to group together a set of h1-h6 tags
   - \<figure>
     - can be used to reference content in an article
-```
+
 
 ## The ABC of Programming
 
