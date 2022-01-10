@@ -4,11 +4,11 @@
   <title>Class_01 Lab</title>
   <style>
     body {
-      background-color: aquamarine;
+      background-color: #FFF5EB;
     }
     h1 {
-      color: bisque;
-      background-color: blueviolet;
+      color: #6C9CAD;
+      background-color: #CDEEFA;
     }
   </style>
 </head>
@@ -16,17 +16,35 @@
   <header>
   </header>
   <main>
-    <h1> Class 01</h1>
-    <p stlye="color: green; background-color: blueviolet">What is your name?</p>
+    <h1> Class 01 Lab</h1>
+    <p style="color: #6C9CAD; width: 50%; background-color: #CDEEFA";>Hi! What is your name?</p>
+    <p style="color: blue; background-color: orange";>Whats your last name?</p>
+    <p style="color: green; background-color: yellow";>Where do you live?</p>
+    <p style="color: orange; background-color: blue";>Where is the best place to eat in "location"?</p>
   </main>
+  
+  <footer>
+
+  </footer>
   <script>
-    console.log('hey yo!');
-    let user = prompt('What is your name?');
-    alert(' hey ' + user + '! welcome to the page')
-    //add console log to enter user info to console- make sure to 
-    console.log('user eneterd' + user + ' for there name')
-    // add all user inputs into final
-    alert('Hey ' + user + ' Thanks for visting!')
+    
+    let nam = prompt('Hi! What is your name?');
+    alert(' Hey ' + nam + '! welcome to the page')
+    console.log('user entered ' + nam + ' for there name')
+
+    let lnam = prompt(nam +', Whats your last name?');
+    alert(' Wow ' + nam + '! ' + lnam + ' is a very cool last name')
+    console.log('user entered ' + lnam + ' for there last name')
+
+    let loca = prompt(nam +' ' + lnam + ', Where do you live?');
+    alert( nam + " " + lnam +', ' + loca + ' seems like a great place to live')
+    console.log('user entered ' + loca + ' for where they live')
+
+    let res = prompt('So! ' + nam + ' ' + lnam +  ", Where is the best place to eat in " + loca);
+    alert('Thanks for the info ' + nam + ' ' + lnam +', next time im in ' + loca + ' I will definitely have to try ' + res)
+    console.log('user entered ' + res + 'favorite place to eat')
+
+    
   </script>
 </body>
 </html>
