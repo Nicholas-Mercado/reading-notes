@@ -14,7 +14,7 @@ This is a repository to store my reading notes from daily assignments in the Sof
 
 ## Code 201 Reading Notes
 
-* [Introductory HTML and Javascript](https://nicholas-mercado.github.io/reading-notes/class_01.html)
+* [Introductory HTML and Javascript](https://nicholas-mercado.github.io/reading-notes/class-01.html)
 
 <!--* [HTML Text, CSS Introduction, and Basic JavaScript Instructions](#LINK)
 * [HTML Lists, CSS Boxes, JS Control Flow](#LINK)
