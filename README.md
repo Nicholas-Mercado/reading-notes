@@ -1,16 +1,16 @@
 This is a repository to store my reading notes from daily assignments in the Software Development program at Code Fellows in 2022.
 
 ## Code 102 Reading Notes
-* [About Me](https://nicholas-mercado.github.io/reading-notes/C102_Reading_Notes/home.html)<br>
-* [CSS](https://nicholas-mercado.github.io/reading-notes/C102_Reading_Notes/css.html)<br>
-* [Git](https://nicholas-mercado.github.io/reading-notes/C102_Reading_Notes/git.html)<br>
-* [Growth Mindset](https://nicholas-mercado.github.io/reading-notes/C102_Reading_Notes/growth_mindset.html)<br>
-* [Javascript](https://nicholas-mercado.github.io/reading-notes/C102_Reading_Notes/javascript.html)<br>
-* [Learning Markdown](https://nicholas-mercado.github.io/reading-notes/C102_Reading_Notes/Learning-Markdown.html)<br>
-* [Loops](https://nicholas-mercado.github.io/reading-notes/C102_Reading_Notes/loops.html)<br>
-* [Programming and Javascript](https://nicholas-mercado.github.io/reading-notes/C102_Reading_Notes/prog_js.html)<br>
-* [The Coder's Computer](https://nicholas-mercado.github.io/reading-notes/C102_Reading_Notes/The-Coders-Computer.html)<br>
-* [Wireframe Design](https://nicholas-mercado.github.io/reading-notes/C102_Reading_Notes/wireframe_design.html)<br>
+* [About Me](https://nicholas-mercado.github.io/reading-notes/c102/home.html)<br>
+* [CSS](https://nicholas-mercado.github.io/reading-notes/c102/css.html)<br>
+* [Git](https://nicholas-mercado.github.io/reading-notes/c102/git.html)<br>
+* [Growth Mindset](https://nicholas-mercado.github.io/reading-notes/c102/growth_mindset.html)<br>
+* [Javascript](https://nicholas-mercado.github.io/reading-notes/c102/javascript.html)<br>
+* [Learning Markdown](https://nicholas-mercado.github.io/reading-notes/c102/Learning-Markdown.html)<br>
+* [Loops](https://nicholas-mercado.github.io/reading-notes/c102/loops.html)<br>
+* [Programming and Javascript](https://nicholas-mercado.github.io/reading-notes/c102/prog_js.html)<br>
+* [The Coder's Computer](https://nicholas-mercado.github.io/reading-notes/c102/The-Coders-Computer.html)<br>
+* [Wireframe Design](https://nicholas-mercado.github.io/reading-notes/c102/wireframe_design.html)<br>
 
 ## Code 201 Reading Notes
 
