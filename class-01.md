@@ -27,25 +27,27 @@
 ### Escape Characters
 
 - Characters that are used in HTML need special symbols to be shown. Here is a list of some useful ones but there are many.
-- "#" = ```&#35;```
-- "&" = ```&#38;```
-- "space" = ```&#32;```
-- "!" = ```&#33;```
-- "New Line" = ```&#10;```
-- "Tab" = ```&#9;```
+
+- \# = \&#35;
+- \& = \&#38;
+- \space = \&#32;
+- \! = \&#33;
+- \New \Line"= \&#10;
+- \Tab = \&#9;
+
   
 ### New HTML5 Layout elements
 - Some new elements intead of using Ideas pg.430
 
 ```
-  - <header>
-  - <aside> pg.436
-  - <nav>
-  - <article>
-  - <footer>
-  - <hgroup>
+  - \<header>
+  - \<aside> pg.436
+  - \<nav>
+  - \<article>
+  - \<footer>
+  - \<hgroup>
     - This element is used to group together a set of h1-h6 tags
-  - <figure>
+  - \<figure>
     - can be used to reference content in an article
 ```
 
