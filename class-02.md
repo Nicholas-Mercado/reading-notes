@@ -89,3 +89,4 @@ var el= document.getElementById ('colors');
 el.textContent = colors [2];
 ```
 <cite>JavaScript and JQuery: Interactive Front-End Web Development by Jon Duckett</cite>
+
