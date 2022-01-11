@@ -16,8 +16,10 @@ This is a repository to store my reading notes from daily assignments in the Sof
 
 * [Introductory HTML and Javascript](https://nicholas-mercado.github.io/reading-notes/class-01.html)
 
-<!--* [HTML Text, CSS Introduction, and Basic JavaScript Instructions](#LINK)
-* [HTML Lists, CSS Boxes, JS Control Flow](#LINK)
+* [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://nicholas-mercado.github.io/reading-notes/class-02.html)
+
+
+<!-- * [HTML Lists, CSS Boxes, JS Control Flow](#LINK)
 * [HTML Links, CSS Layout, JS Functions](#LINK)
 * [HTML Images, CSS Color & Text](#LINK)
 * [JS Object Literals: The DOM](#LINK)
@@ -29,5 +31,4 @@ This is a repository to store my reading notes from daily assignments in the Sof
 * [Docs for the HTML \<Canvas> Element & Chart.js](#LINK)
 * [Local Storage](#LINK)
 * [CSS Transforms, Transitions and Animations](#LINK)
-* [What Google Learned About Teams](#LINK)
--->
+* [What Google Learned About Teams](#LINK) -->
