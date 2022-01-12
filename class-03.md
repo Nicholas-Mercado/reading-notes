@@ -10,11 +10,11 @@
 #### Ordered and unordered
   - both have li nested in them
     - \<li>
-  - Ordered list denotated
+  - Ordered list denoted
     - 1. 
     - 2. 
     - 3.
-  - Unordered list denotated
+  - Unordered list denoted
     - .
     - .
     - .
@@ -23,13 +23,13 @@
 - created with dl element
 - use dt for term
 - use dd for Definition
-```md
 
+
+```
 <dl>
   <dt>dog</dt>
   <dd>mans best friend</dd>
 </dl>
-
 ```
 
 ## Boxes
@@ -62,7 +62,7 @@
 ```js
 let colors = new Array('go','left','foot');
 ```
-##le Accessing a changing a arrey
+## Accessing a changing a array
 
 ```js
 //Create the array
@@ -76,9 +76,10 @@ let el= document.getElementById ('colors');
 // Replace with third item from the array
 el.textContent = colors [2];
 ```
+
 <cite>JavaScript and JQuery: Interactive Front-End Web Development by Jon Duckett</cite>
 
-## __Switch Statments__
+## __Switch Statements__
   - peforms faster then if Statements
   
 ```js
@@ -92,20 +93,21 @@ el.textContent = colors [2];
   [default:
     [break;]]
   }
-  
-```
+  ```
 
   [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
 
-  ## Coercion
+## Coercion
   - JavaScript may convert data behind the scenes to try to make sense of data it did not expect
 
 ```js
 ('1'>0) 
 ```
+
 - js may convert the 1 into a number from a string
 
 ## *Using for loops*
+
 
 ```js
 let scores [24, 32, 17]; //Array of scores
