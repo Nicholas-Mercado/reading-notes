@@ -25,7 +25,7 @@
 - use dd for Definition
 
 
-```
+```md
 
 <dl>
   <dt>dog</dt>
@@ -62,13 +62,15 @@
 ## Creating a Array
 - arrey numbering starts at 0
   
-```
+```md
+
 let colors = new Array('go','left','foot');
+
 ```
 
 ## Accessing a changing a array
 
-```
+```md
 //Create the array
 let colors ['whi te',
 'black',
@@ -86,7 +88,7 @@ el.textContent = colors [2];
 ## __Switch Statements__
   - peforms faster then if Statements
   
-```
+```md
   switch (expression) {
   case value1:
     [break;]
@@ -104,7 +106,7 @@ el.textContent = colors [2];
 ## Coercion
   - JavaScript may convert data behind the scenes to try to make sense of data it did not expect
 
-```
+```md
 ('1'>0) 
 ```
 
@@ -113,7 +115,7 @@ el.textContent = colors [2];
 ## *Using for loops*
 
 
-```
+```md
 
 let scores [24, 32, 17]; //Array of scores
 let arrayLength = SCores.length;// Items in array
