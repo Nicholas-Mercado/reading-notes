@@ -26,10 +26,12 @@
 
 
 ```
+
 <dl>
   <dt>dog</dt>
   <dd>mans best friend</dd>
 </dl>
+
 ```
 
 ## Boxes
@@ -59,12 +61,14 @@
 
 ## Creating a Array
 - arrey numbering starts at 0
-```js
+  
+```
 let colors = new Array('go','left','foot');
 ```
+
 ## Accessing a changing a array
 
-```js
+```
 //Create the array
 let colors ['whi te',
 'black',
@@ -82,7 +86,7 @@ el.textContent = colors [2];
 ## __Switch Statements__
   - peforms faster then if Statements
   
-```js
+```
   switch (expression) {
   case value1:
     [break;]
@@ -93,14 +97,14 @@ el.textContent = colors [2];
   [default:
     [break;]]
   }
-  ```
+```
 
   [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
 
 ## Coercion
   - JavaScript may convert data behind the scenes to try to make sense of data it did not expect
 
-```js
+```
 ('1'>0) 
 ```
 
@@ -109,7 +113,8 @@ el.textContent = colors [2];
 ## *Using for loops*
 
 
-```js
+```
+
 let scores [24, 32, 17]; //Array of scores
 let arrayLength = SCores.length;// Items in array
 let roundNumber 0; //Current round
@@ -129,6 +134,7 @@ msg+ "Round+ roundNumber+':'
 //Get the score from the scores array
 msg+= scores [i] + '<br />';
 document.getEl ementByI d ( 'answer').innerHTML = msg;
+
 ```
 
 <cite> Jon, Duckett JavaScript & jQuery
