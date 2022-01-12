@@ -115,7 +115,7 @@ el.textContent = colors [2];
 ## *Using for loops*
 
 
-```md
+```
 
 let scores [24, 32, 17]; //Array of scores
 let arrayLength = SCores.length;// Items in array
@@ -136,8 +136,8 @@ msg+ "Round+ roundNumber+':'
 //Get the score from the scores array
 msg+= scores [i] + '<br />';
 document.getEl ementByI d ( 'answer').innerHTML = msg;
-
 ```
+
 
 <cite> Jon, Duckett JavaScript & jQuery
 Interactive Front-end Web Development</cite>
