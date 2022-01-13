@@ -1,5 +1,8 @@
-## if else
-```
+# Class_02
+
+## if-else
+
+```js
 if(somethingEvaluatesTrue){
   do something
 }
@@ -39,18 +42,21 @@ if(isTrue){
 ```
 
 ### Comparison Operators
- - === striclty equals
- - == comparitvl;y equals
-    ```
-    let a = 5;
-    console.log(a == '5');
-    is true
-    ```
+
+- === striclty equals
+- == comparitvl;y equals
+
+```js
+let a = 5;
+console.log(a == '5');
+is true
+```
+
 - != not equal to
 - !== striclty not true
 
-
 ### Logical Operators
+
 - && - and
 - || - or
 - ! - not
@@ -64,25 +70,27 @@ if(isTrue && !isTrue){
 }
 
 ```
+
 ## git and github
 
-A- add 
+A- add
 
 C- commit - meaningful msg
 
 P- push
 
 ## Arrays **special type of Object**
- - a list or collection of elements
-   - can be anything 
- - no predetermine size
- - -Every elements has a index(location ref)
- - zero based
-   - first element in Array is index at 0
- - have built in methods
-   - .push(),.pop(),includes()
- - properties- returns us values
-   - lengths
+
+- a list or collection of elements
+  - can be anything
+- no predetermine size
+- -Every elements has a index(location ref)
+- zero based
+  - first element in Array is index at 0
+- have built in methods
+  - .push(),.pop(),includes()
+- properties- returns us values
+  - lengths
 
 ```js
 use 'strict'
@@ -166,6 +174,7 @@ for(let i =0; i < students.length; i++){
 ```
 
 ## while loops
+
 ```js
 //while(condition){
    // do something
@@ -180,7 +189,9 @@ while( userNum != mynum){
 }
 
 ```
+
 breaking while loop - guessing game
+
 ```js
 let clueGuesses = 20
 let suspect = 'Nicholas'
@@ -203,3 +214,93 @@ let score = 0;
 
 //add 
 score++ to question logic
+```
+
+## Class_04 Functions
+
+parameter = bucket
+arguments = stuff in bucket
+
+```js
+
+'use strict';
+
+// function declaration
+
+//define
+function greeting(){
+  console.log('heu');
+}
+
+//call
+greeting();
+
+// function expressions
+// flaw. cant call before this function
+// look up hosting
+let greeting = function(){
+      console.log('hey');
+}
+
+function newGreeting(firstName, lastName){
+  console.log(`hey!${firstName}${lastName}`);
+}
+
+// invoke with arguments
+newGreeting('nick', 'mercado');
+
+// take in array
+function multi(arr){
+  for(let i = 0; 1<array.lengths; i++)
+  console.log(arr[i])
+}
+
+//functions with retun
+functions multi(a,b){
+  retun a *b;
+}
+
+let result = multi(6,8);
+
+```
+
+## Arguments
+
+```js
+// must give all arguments
+functions sub(a,b){
+  retun a - b;
+}
+functions multi(a,b){
+  retun a * b;
+}
+
+let result1 = multi(6,8);
+let result2 = sub(6,8);
+
+console.log(result1,result2);
+```
+
+## Scope
+
+```js
+function newGreeting(firstName, lastName){
+  let message = (`hey!${firstName}${lastName}`);
+  return message;
+  //this wont work cause its not declared globally
+}
+```
+
+## Css
+
+### positioning
+
+2 types
+
+- static-type
+
+- relative-type
+
+  -
+
+  -
