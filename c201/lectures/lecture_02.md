@@ -1,6 +1,8 @@
-# Class_02
+# Lecture notes
 
-## if-else
+## Class_02
+
+### if-else
 
 ```js
 if(somethingEvaluatesTrue){
@@ -41,7 +43,7 @@ if(isTrue){
 }
 ```
 
-### Comparison Operators
+#### Comparison Operators
 
 - === striclty equals
 - == comparitvl;y equals
@@ -55,7 +57,7 @@ is true
 - != not equal to
 - !== striclty not true
 
-### Logical Operators
+#### Logical Operators
 
 - && - and
 - || - or
@@ -71,7 +73,7 @@ if(isTrue && !isTrue){
 
 ```
 
-## git and github
+### git and github
 
 A- add
 
@@ -79,7 +81,7 @@ C- commit - meaningful msg
 
 P- push
 
-## Arrays **special type of Object**
+### Arrays **special type of Object**
 
 - a list or collection of elements
   - can be anything
@@ -144,7 +146,7 @@ let items = favBoyBands();
 // use console for arrays
 ```
 
-## for while loops
+### for while loops
 
 ```js
 'use strict'
@@ -173,7 +175,7 @@ for(let i =0; i < students.length; i++){
 }
 ```
 
-## while loops
+### while loops
 
 ```js
 //while(condition){
@@ -216,7 +218,7 @@ let score = 0;
 score++ to question logic
 ```
 
-## Class_04 Functions
+### Class_04 Functions
 
 parameter = bucket
 arguments = stuff in bucket
@@ -264,7 +266,7 @@ let result = multi(6,8);
 
 ```
 
-## Arguments
+### Arguments
 
 ```js
 // must give all arguments
@@ -281,7 +283,7 @@ let result2 = sub(6,8);
 console.log(result1,result2);
 ```
 
-## Scope
+### Scope
 
 ```js
 function newGreeting(firstName, lastName){
@@ -291,9 +293,9 @@ function newGreeting(firstName, lastName){
 }
 ```
 
-## Css
+### Css
 
-### positioning
+#### positioning
 
 2 types
 
@@ -304,3 +306,49 @@ function newGreeting(firstName, lastName){
   -
 
   -
+
+## Class_05
+
+### Functions and returns
+
+```js
+
+//Multi returns
+
+function newDev(){
+  let firstName = 'nick';
+  let lastName = 'mercado';
+
+  return [firstName, lastName];\
+}
+
+let dev = newDev();
+// access arry for names
+let fname = newDev()[0];
+let Lname = newDev()[1];
+
+// group function calls adding to variable
+// called destructing
+
+let [fName, Lname] = newDev();
+// array is assign to each var in order
+
+```
+
+#### Branching
+
+Create a new Branch
+
+```git
+
+1. git checkout -b <branch name>
+
+2. ACP- add commit are the same, push is different(git push origin <branch name>)
+
+3. pull request- on github (pull into main) if no conflicts
+
+4. git checkout main (scary) 
+
+5 git pull origin main
+
+```
