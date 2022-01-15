@@ -1,4 +1,4 @@
-This is a repository to store my reading notes from daily assignments in the Software Development program at Code Fellows in 2022.
+This is a repository to store my reading notes from daily assignments in the Software Development program at Code Fellows in 2022..
 
 ## Code 102 Reading Notes
 * [About Me](https://nicholas-mercado.github.io/reading-notes/c102/home.html)<br>
@@ -22,8 +22,9 @@ This is a repository to store my reading notes from daily assignments in the Sof
 
 * [HTML Links, CSS Layout, JS Functions](https://nicholas-mercado.github.io/reading-notes/class-04.html)
 
-<!-- * [HTML Images, CSS Color & Text](https://nicholas-mercado.github.io/reading-notes/class-05.html)
-* 
+* [HTML Images, CSS Color & Text](https://nicholas-mercado.github.io/reading-notes/class-05.html)
+
+<!-- 
 * [JS Object Literals: The DOM](#LINK)
 * [HTML Tables; JS Constructor Functions](#LINK)
 * [More CSS Layout](#LINK)
