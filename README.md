@@ -24,9 +24,10 @@ This is a repository to store my reading notes from daily assignments in the Sof
 
 * [HTML Images, CSS Color & Text](https://nicholas-mercado.github.io/reading-notes/class-05.html)
 
-<!-- 
-* [JS Object Literals: The DOM](#LINK)
-* [HTML Tables; JS Constructor Functions](#LINK)
+* [JS Object Literals: The DOM](https://nicholas-mercado.github.io/reading-notes/class-06.html)
+
+
+<!-- * [HTML Tables; JS Constructor Functions](#LINK)
 * [More CSS Layout](#LINK)
 * [Forms and Events](#LINK)
 * [JS Debugging](#LINK)
@@ -35,3 +36,4 @@ This is a repository to store my reading notes from daily assignments in the Sof
 * [Local Storage](#LINK)
 * [CSS Transforms, Transitions and Animations](#LINK)
 * [What Google Learned About Teams](#LINK) -->
+
