@@ -352,3 +352,210 @@ Create a new Branch
 5 git pull origin main
 
 ```
+
+## Class_06
+
+### Objects
+
+```js
+'use strict'
+
+let audrey = {
+  name: 'Nick',
+  positon: 'student',
+  age: 35,
+  isremote: true,
+  course: '201d82',
+  says: function() {
+    console.log('yea yea yea');
+  },
+  classIntro; function() {
+    console.log(`hello ${this.course}`);
+  }
+};
+// add to object
+Nick.interests = ['art','food',];
+// use push() to add to the end of a key
+Nick.interests.psuh('money');
+
+// use chaining adds function to object
+Nick.advise = function() {
+  console.log('help!')
+}
+
+//accessing 
+console.log(Nick.name);
+console.log(Nick['course']); 
+
+// Calling methods
+Nick.classIntro();
+Nick.advise();
+```
+
+Objects are not iterable. No for loops.
+
+## THE DOM
+
+```js
+//shows dom tree
+console.dir(document)
+
+// minipulate the
+document.body.innertext
+
+```
+
+## dom practice
+
+```js
+// use generate this from js:
+<section id="profile"></section>
+
+let frankie = {
+  name: "Frankie",
+  //assign null when using function later
+  age: null,
+  interests: ['wet food', 'cat food'];
+  isGoodwithDogs: false,
+  isGoodwithkids: true,
+  isGoodwithCats: true,
+  photo: 'img/frankie.jpg',
+  getAge: function(){
+    this.age = `${randomAge(3,12)} months`; 
+  }
+
+};
+
+// use generate this from js:
+<section id="profile"></section>
+
+let jumper = {
+  name: "Jumper",
+  //assign null when using function later
+  age: null,
+  interests: ['dry food', 'dog food'];
+  isGoodwithDogs: false,
+  isGoodwithkids: false,
+  isGoodwithCats: false,
+  photo: 'img/frankie.jpg',
+  getAge: function(){
+    this.age = `${randomAge(3,12)} months`; 
+  }
+
+};
+
+// use generate this from js:
+<section id="profile"></section>
+
+let serena = {
+  name: "Serena",
+  //assign null when using function later
+  age: null,
+  interests: ['mice', 'lazers','scratching'];
+  isGoodwithDogs: true,
+  isGoodwithkids: false,
+  isGoodwithCats: false,
+  photo: 'img/frankie.jpg',
+  // use this to add random age to age: key
+  getAge: function(){
+    this.age = `${randomAge(3,12)} months`; 
+  }
+
+};
+
+// use helper function for age plus random number generator
+function randomAge(min, max){
+  let number = return Math.floor(Math.random() * (max - min) + min);
+  return number;
+}
+
+frankie.getAge();
+Serena.getAge();
+Jumper.getAge();
+
+// instead of calling each use a helper function
+// build array
+const kittenCaboodle = [frankie, jumper, Serena];
+function getAllKittenAges() {
+  for(let i = 0; i < kittenCaboodle.length; i++){
+    let currentKitten = kittenCaboodle[i];
+    currentKitten.getAge();
+  }
+}
+//call out kitten age helper function
+getAllKittenAges();
+
+```
+
+### Dom manipulation
+
+```js
+//steps
+// 2nd- Create element
+// 3rd give element context
+// 4th append the dom
+
+
+
+// 1- grab a window into the Dom
+let kittenSection = document.getElementById('profile');
+
+// write function to render kittens to page
+
+function renderKitten(kitten) {
+  //2 create element
+  const articleElem = document.createElement('article');
+  // 4 append the dom
+  kittenSection.appendChild(articleElem);
+
+  const h2Elem = document.createElement('h2');
+  h2Elem.textContent = kitten.name;
+  articleElem.appendChild(h2Elem);
+//create p tage
+  const pElem = document.createElement('p');
+  pElem.textContent = `${kitten.name} is adorable and is ${kitten.age} old`;
+  articleElem.appendChild(pElem);
+
+// create ul
+  const ulElem = document.createElement('ul')
+  articleElem.appendChild(ulElem);
+// create li use for loop to array list
+  for(let i=0; i <kitten.interest.length; i++);{
+  let currentInternets = kitten.interest[i];
+  const liElem = document.createElement('li');
+  liElem.textContent = currentInternets;
+  ulElem.appendChild(liElem);
+  }
+  //create img
+  const imgElem = document.createElement('img');
+  // this works with dom beacuse phot seen as object
+  imgElem.src = kitten.photo;
+  // set arrLength
+  imgElem.alt = (`${kitten.name} is adorable and is ${kitten.age} old`);
+  //append
+  articleElem.appendChild(imgElem)
+
+}
+
+//Create helper function to render all kittens
+
+function renderAllKittens(){
+  for(let i = 0; i < kittenCaboodle.length; i++){
+    let currentkitten = kittenCaboodle[i];
+    renderkitten(currentkitten);
+  }
+}
+
+renderkitten();
+
+<h3><a"for somethingEvaluatesTrue></h3>
+
+// let hours = global array
+let hours = [12,1,2,3,4..]
+//object
+let seattle = {
+  minCust:23,
+  maxCust:65,
+  avgCookie: 6.3;
+}
+```
