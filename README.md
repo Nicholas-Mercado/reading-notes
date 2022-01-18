@@ -28,6 +28,7 @@ This is a repository to store my reading notes from daily assignments in the Sof
 
 
 * [HTML Tables; JS Constructor Functions](https://nicholas-mercado.github.io/reading-notes/class-07.html)
+  
 <!-- * 
 * [More CSS Layout](#LINK)
 * [Forms and Events](#LINK)
