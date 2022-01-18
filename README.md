@@ -27,7 +27,8 @@ This is a repository to store my reading notes from daily assignments in the Sof
 * [JS Object Literals: The DOM](https://nicholas-mercado.github.io/reading-notes/class-06.html)
 
 
-<!-- * [HTML Tables; JS Constructor Functions](#LINK)
+* [HTML Tables; JS Constructor Functions](https://nicholas-mercado.github.io/reading-notes/class-07.html)
+<!-- * 
 * [More CSS Layout](#LINK)
 * [Forms and Events](#LINK)
 * [JS Debugging](#LINK)
