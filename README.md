@@ -26,15 +26,22 @@ This is a repository to store my reading notes from daily assignments in the Sof
 
 * [JS Object Literals: The DOM](https://nicholas-mercado.github.io/reading-notes/class-06.html)
 
-
 * [HTML Tables; JS Constructor Functions](https://nicholas-mercado.github.io/reading-notes/class-07.html)
   
 * [More CSS Layout](https://nicholas-mercado.github.io/reading-notes/class-08.html)
+  
 * [Forms and Events](https://nicholas-mercado.github.io/reading-notes/class-09.html)
+  
 * [JS Debugging](https://nicholas-mercado.github.io/reading-notes/class-10.html)
+  
 * [Assorted Topics](https://nicholas-mercado.github.io/reading-notes/class-11.html)
+  
 * [Docs for the HTML \<Canvas> Element & Chart.js](https://nicholas-mercado.github.io/reading-notes/class-12.html)
+  
 * [Local Storage](https://nicholas-mercado.github.io/reading-notes/class-13.html)
+  
 * [CSS Transforms, Transitions and Animations](https://nicholas-mercado.github.io/reading-notes/class-14.html)
+  
 * [What Google Learned About Teams](https://nicholas-mercado.github.io/reading-notes/class-15.html) 
+  
 
