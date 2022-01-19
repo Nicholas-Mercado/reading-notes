@@ -559,3 +559,138 @@ let seattle = {
   avgCookie: 6.3;
 }
 ```
+
+## Class_07
+
+### Constructor
+
+- a function that create object instance
+- Uses parameters to assign properties
+- Name starts with Capitol letter
+
+```js
+
+function Student(name, pronouns) {
+  this.studentName = name;
+  this.pronouns = pronouns;
+  //can hardcode
+  this.currentClass = 'c201';
+  //add methods
+  this.greetClass = function(){
+    console.log('yo');
+  }
+  //add student to array
+  student.all.push(this)
+}
+
+// add student objects to a array global
+Student.all = []
+// create student object
+
+let lauren = new Student('lauren', 'they/them');
+
+//call function 
+lauren.greeClass();
+
+//call student array
+console.log(student.all);
+
+```
+
+### Protoytpe inharadence
+
+```js
+// keyword inharet
+Student.Protoytpe.greetClass = function (){
+  console.log('hey!');
+}
+```
+
+### refactore
+
+```js
+let kittenSection = document.getElementById('profile');
+
+const kittenCaboodle = [];
+
+// the order of the argument is important for instantiation 
+function Kitten(name, interests,isGoodwithDogs,isGoodwithkids,isGoodwithCats,photo){
+// use this for same everytime
+this.name = name;
+this.interest = interest;
+this.isGoodwithDogs = isGoodwithDogs;
+this.isGoodwithkids = isGoodwithkids;
+this.isGoodwithCats = isGoodwithCats;
+this.age = null;
+this.photo = photo;
+//connect array
+kittenCaboodle.push(this);
+}
+
+// adding methods via Protoytpe
+Kitten.Protoytpe.getAge = function() {
+  this.age = `${randomAge(3,12)} months`;
+};
+
+// instantiate
+// add 
+let frankie = new Kitten('frankie', interests,isGoodwithDogs,isGoodwithkids,isGoodwithCats,photo)
+let Sarah = new Kitten('frankie', interests,isGoodwithDogs,isGoodwithkids,isGoodwithCats,photo)
+let bill = new Kitten('frankie', interests,isGoodwithDogs,isGoodwithkids,isGoodwithCats,photo)
+```
+
+```js
+//refactor render
+
+kitten.Protoytpe.renderKitten = function() {
+  // make sure to change kitten
+
+  //change for loop render call
+  currentKitten.renderKitten();
+}
+```
+
+### Tables
+
+```js
+
+//steps
+// 2nd- Create element
+// 3rd give element context
+// 4th append the dom
+
+//adding table to js
+
+const TableElem = document.createElement('table'); //creates table
+articleElem.appendChild(tableElem);
+
+const tableHeadElem = document.createElement('thread'); //creates thread
+tableElem.appendChild(tableHeadElem);
+
+const row1 = document.createElement('tr');
+tableHeadElem.appendChild(row1);
+
+//adding contents
+const th1Elem = document.createElement('th');
+th1Elem.textContent = 'good with dogs'; // hardcode title
+row1.appendChild(th1Elem);
+const th2Elem = document.createElement('th');
+th2Elem.textContent = 'good with cats'; // hardcode title
+row1.appendChild(th2Elem);
+const th3Elem = document.createElement('th');
+th3Elem.textContent = 'good with Kids'; // hardcode title
+row1.appendChild(th3Elem);
+
+// add row 2
+
+const row2 = document.createElement('tr'); // chrome takles care of this
+tableElem.appendChild(row2);
+
+const td1 = document.createElement('td');
+td1.textContent= this.isGoodwithDogs; // connect to object
+row2.appendChild(td1);
+
+
+
+//HJerader is store hours
+````
