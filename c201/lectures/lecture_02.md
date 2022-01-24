@@ -693,4 +693,149 @@ row2.appendChild(td1);
 
 
 //HJerader is store hours
-````
+```
+
+## Class_09
+
+### Events!
+
+- asynchronous code- runs out of order
+
+```js
+
+element.addEventListener('event', callback function);
+
+// callback function = function that is passed in as a argument to anther function
+
+buttun.addEventListener('submit',handleSubmit);
+
+```
+
+```js
+
+// step one grab teh element that we want to listen though
+
+//step three Define our event handler- callback funtion
+
+
+// add evetlistener - 2 args (event, callback function)
+myContainer
+
+```
+
+#### Build a fomr HTml
+
+```js
+
+<form id="my-form">
+//  default box around 
+  <fieldset>
+  // basic info in legend
+    <legend>Context</legend>
+    // inputs
+    // label for and id must match
+    //type controls input style
+    <label for="name"></label>
+    // can use type number or type etc..
+    // use name="" attribute for targeting
+    <input id="name" type="text" name="Firstname">
+
+  // Second input style nested
+  <label>age
+  // not need for for=
+  <input type="number" name="age">
+  </label>
+
+  // adding options
+  <label>fave housewaives</label>
+  <select name="housewives" id="housewives">
+  <options value="">----Please Choose---</options>
+  <options value="choice"></options>
+  <option>
+  </fieldset>
+  // must be in fomr
+  <button type="submit"></button>
+</form>
+
+
+```
+
+```js
+
+function handleSubmit(event){
+  event.preventDefault();
+// target name= "value"<---
+  let name = event.target.firstName.value;
+
+  let age = event.target.age.value;
+
+  let housewives = event.target.housewives.value;
+}
+
+myContainer.addEventListener('click', handleClick);
+
+myForm.addEventListener('submit', handleSubmit);
+
+```
+
+#### build form
+```html
+
+// constructor argumetsn in order
+
+//name, interests,isGoodwithDogs,isGoodwithkids,isGoodwithCats,photo
+
+<form id="add-store">
+  <fieldset>
+    <legend>basic info</legend>
+
+    <label for ="name">Name</label>
+    <input id="name" type="text" name="storeName">
+
+    <label for="interest">Name (seperate by comma)</label>
+    <input id="interest" type="text" name="interest">
+    
+  </fieldset>
+  <button type="submit">Submit</button>
+</form>
+```
+
+
+//step three Define our event handler- callback funtion
+
+
+
+```js
+
+// / step one grab teh element that we want to listen though
+
+const kittenform = document.getElementById('add-kitten');
+
+// add evetlistener - 2 args (event, callback function)
+
+kittenform.addEventListener('submit', handleSubmit);
+
+//step three Define our event handler- callback funtion
+
+funtion handleSubmit(){
+  event.preventDefault(); // stop sending data off
+ /// now parseint()
+  let name = event.target.storeName.value;
+  //adding array
+  let interest = event.target.interest.value;
+// use split to seperate with comma into array
+// split argument is what you want split on comma, space, letter
+  interest = interest.split(',')
+  // How to do checkboxes
+let isGoodwithCats = event.target.isGoodwithCats.checked;
+
+// use constrotor
+
+let newKitten = new Kitten(name, interest, isGoodwithDogs,isGoodwithCats,isGoodwithkids,photo);
+/// make sure to add all functions that are stand alone
+newKitten.getAge();
+newKitten.renderKittens();
+//resets form
+kittenform.reset();
+}
+```
