@@ -40,8 +40,8 @@ This is a repository to store my reading notes from daily assignments in the Sof
   
 * [Local Storage](https://nicholas-mercado.github.io/reading-notes/class-13.html)
   
-* [CSS Transforms, Transitions and Animations](https://nicholas-mercado.github.io/reading-notes/class-14.html)
+* [CSS Transforms, Transitions and Animations](https://nicholas-mercado.github.io/reading-notes/class-14a.html)
   
-* [What Google Learned About Teams](https://nicholas-mercado.github.io/reading-notes/class-15.html) 
+* [What Google Learned About Teams](https://nicholas-mercado.github.io/reading-notes/class-14b.html) 
   
 
