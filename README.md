@@ -1,4 +1,5 @@
-This is a repository to store my reading notes from daily assignments in the Software Development program at Code Fellows in 2022..
+# Reading Notes
+
 
 ## Code 102 Reading Notes
 * [About Me](https://nicholas-mercado.github.io/reading-notes/c102/home.html)<br>
