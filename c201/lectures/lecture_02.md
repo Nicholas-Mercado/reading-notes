@@ -697,7 +697,7 @@ row2.appendChild(td1);
 
 ## Class_09
 
-### Events!
+### Events
 
 - asynchronous code- runs out of order
 
@@ -779,6 +779,7 @@ myForm.addEventListener('submit', handleSubmit);
 ```
 
 #### build form
+
 ```html
 
 // constructor argumetsn in order
@@ -800,10 +801,7 @@ myForm.addEventListener('submit', handleSubmit);
 </form>
 ```
 
-
 //step three Define our event handler- callback funtion
-
-
 
 ```js
 
@@ -839,3 +837,107 @@ newKitten.renderKittens();
 kittenform.reset();
 }
 ```
+
+## Class_11
+
+### Css Grid
+
+- must be in a Container
+
+- parent element must have display: grid;
+
+```css
+
+.grid-Container{
+
+  display: grid;
+
+
+}
+
+```
+
+### busmail
+
+What we need
+
+#### Global variables
+
+#### constructor
+
+#### Executable
+
+- number of votes user has sumbited
+
+
+
+### Local Storage
+
+```js
+
+
+
+// what data do i want to persist
+//Where do you want to grab
+
+function handleResults(event) {
+  if (totalRounds === 0) {
+    renderChart();
+  }
+// *****LOCACL STORAGE********?
+// step one - stringinfy data
+
+let stringAllItems = JSON.stringinfy(allItems);
+
+// step two Set the Item in Storage
+
+localStorage.setItem('items',stringAllItems);
+}
+
+// step three get items back from local Storage
+// parse the JSON
+
+let retrieveItems = localStorage.getItem('items');
+
+let parsedItems = JSON.parse(retrieveItems);
+
+// or one listen
+
+// let parsedItems = JSON.parse(retrieveItems);
+
+// Step four If i have items in LS use those,  if not instantiate new items
+
+if(retrieveItems){
+allItems = parsedItems;
+   }else{
+   
+    new Item('bag');
+    new Item('banana');
+    new Item('bathroom');
+    new Item('boots');
+    new Item('breakfast');
+    new Item('bubblegum');
+    new Item('chair');
+    new Item('cthulhu');
+    new Item('dog-duck');
+    new Item('dragon');
+    new Item('pen');
+    new Item('pet-sweep');
+    new Item('scissors');
+    new Item('shark');
+    new Item('sweep', 'png');
+    new Item('tauntaun');
+    new Item('unicorn');
+    new Item('water-can');
+    new Item('wine-glass');
+  
+}
+
+
+console.log(allItems);
+```
+
+## Lab14
+
+```js
+

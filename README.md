@@ -14,34 +14,37 @@ This is a repository to store my reading notes from daily assignments in the Sof
 
 ## Code 201 Reading Notes
 
-* [Introductory HTML and Javascript](https://nicholas-mercado.github.io/reading-notes/class-01.html)
+* [Introductory HTML and Javascript](https://nicholas-mercado.github.io/reading-notes/c201/class-01.html)
 
-* [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://nicholas-mercado.github.io/reading-notes/class-02.html)
+* [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://nicholas-mercado.github.io/reading-notes/c201/class-02.html)
 
-* [HTML Lists, CSS Boxes, JS Control Flow](https://nicholas-mercado.github.io/reading-notes/class-03.html)
+* [HTML Lists, CSS Boxes, JS Control Flow](https://nicholas-mercado.github.io/reading-notes/c201/class-03.html)
 
-* [HTML Links, CSS Layout, JS Functions](https://nicholas-mercado.github.io/reading-notes/class-04.html)
+* [HTML Links, CSS Layout, JS Functions](https://nicholas-mercado.github.io/reading-notes/c201/class-04.html)
 
-* [HTML Images, CSS Color & Text](https://nicholas-mercado.github.io/reading-notes/class-05.html)
+* [HTML Images, CSS Color & Text](https://nicholas-mercado.github.io/reading-notes/c201/class-05.html)
 
-* [JS Object Literals: The DOM](https://nicholas-mercado.github.io/reading-notes/class-06.html)
+* [JS Object Literals: The DOM](https://nicholas-mercado.github.io/reading-notes/c201/class-06.html)
 
-* [HTML Tables; JS Constructor Functions](https://nicholas-mercado.github.io/reading-notes/class-07.html)
+* [HTML Tables; JS Constructor Functions](https://nicholas-mercado.github.io/reading-notes/c201/class-07.html)
   
 * [More CSS Layout](https://nicholas-mercado.github.io/reading-notes/class-08.html)
   
-* [Forms and Events](https://nicholas-mercado.github.io/reading-notes/class-09.html)
+* [Forms and Events](https://nicholas-mercado.github.io/reading-notes/c201/class-09.html)
   
-* [JS Debugging](https://nicholas-mercado.github.io/reading-notes/class-10.html)
+* [JS Debugging](https://nicholas-mercado.github.io/reading-notes/c201/class-10.html)
   
-* [Assorted Topics](https://nicholas-mercado.github.io/reading-notes/class-11.html)
+* [Assorted Topics](https://nicholas-mercado.github.io/reading-notes/c201/class-11.html)
   
-* [Docs for the HTML \<Canvas> Element & Chart.js](https://nicholas-mercado.github.io/reading-notes/class-12.html)
+* [Docs for the HTML \<Canvas> Element & Chart.js](https://nicholas-mercado.github.io/reading-notes/c201/class-12.html)
   
-* [Local Storage](https://nicholas-mercado.github.io/reading-notes/class-13.html)
+* [Local Storage](https://nicholas-mercado.github.io/reading-notes/c201/class-13.html)
   
-* [CSS Transforms, Transitions and Animations](https://nicholas-mercado.github.io/reading-notes/class-14a.html)
+* [CSS Transforms, Transitions and Animations](https://nicholas-mercado.github.io/reading-notes/c201/class-14a.html)
   
-* [What Google Learned About Teams](https://nicholas-mercado.github.io/reading-notes/class-14b.html)
+* [What Google Learned About Teams](https://nicholas-mercado.github.io/reading-notes/c201/class-14b.html)
   
+## Code 301 - Intermediate Software Development
 
+
+## Code 401 - Advanced Software Development
