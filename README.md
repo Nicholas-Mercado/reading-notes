@@ -47,5 +47,34 @@
   
 ## Code 301 - Intermediate Software Development
 
+* [Introduction to React and Components](https://nicholas-mercado.github.io/reading-notes/c301/class-01.html)
+  
+* [State and Props](https://nicholas-mercado.github.io/reading-notes/c301/class-02.html)
 
+* [Passing Functions as Props](https://nicholas-mercado.github.io/reading-notes/c301/class-03.html)
+
+* [React and Forms](https://nicholas-mercado.github.io/reading-notes/c301/class-04.html)
+
+* [Putting it all together](https://nicholas-mercado.github.io/reading-notes/c301/class-05.html)
+
+* [NODE.JS](https://nicholas-mercado.github.io/reading-notes/c301/class-06.html)
+
+* [REST](https://nicholas-mercado.github.io/reading-notes/c301/class-07.html)
+
+* [ APIs](https://nicholas-mercado.github.io/reading-notes/c301/class-08.html)
+
+* [Functional Programming](https://nicholas-mercado.github.io/reading-notes/c301/class-09.html)
+
+* [In memory storage](https://nicholas-mercado.github.io/reading-notes/c301/class-10.html)
+
+* [Mongo and Mongoose](https://nicholas-mercado.github.io/reading-notes/c301/class-11.html)
+
+* [CRUD](https://nicholas-mercado.github.io/reading-notes/c301/class-12.html)
+
+* [Diversity & Inclusion in the Tech Industry](https://nicholas-mercado.github.io/reading-notes/c301/class-13.html)
+
+* [Authentication](https://nicholas-mercado.github.io/reading-notes/c301/class-14.html)
+
+* [Authentication - 2](https://nicholas-mercado.github.io/reading-notes/c201/class-15.html)
+  
 ## Code 401 - Advanced Software Development
