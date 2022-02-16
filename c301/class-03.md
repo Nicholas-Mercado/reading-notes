@@ -33,7 +33,7 @@ is the use of (...) to expand an iterable object into a list of arguments
 
 **List 4 things that the spread operator can do.**
 
-1. Spreads array into seperate arguments
+1. Spreads array into separate arguments
 
 2. Copy an array
 
@@ -83,6 +83,18 @@ The increment function increases or decreases a given value.
 
 **How can you pass a method from a parent component into a child component?**
 
+You can pass a method from parent to child element by calling the function with the this keyword in the component object.
+
+```js
+increment={this.increment}
+```
+
 **How does the child component invoke a method that was passed to it from a parent component?**
+
+This invokes the method in the parent element casuing a rerender and changing state.
+
+```js
+this.props.increment(this.props.name);
+```
 
 ## Things I want to know more about
