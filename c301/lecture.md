@@ -71,3 +71,70 @@ class Person extends React.Component{
 }
 
 export default Person;
+
+```
+
+## class 03
+
+Create state in App, that can be passed as a propertie to header(number of hearts)
+
+need to create function in App.js to handle changing app state
+
+
+build a constructor
+
+```js
+constructor(props){
+    super(props);
+    this.state = {
+      hearts: ''
+    }
+}
+
+// create method
+
+  addHearts= () => {
+    this.setState({
+      hearts: this.state.hearts + 'emoji'
+    })
+  }
+
+render(){
+    return(
+      <Header hearts={this.state.hearts} />
+      <header>
+        <h1>Hello World</h1>
+      </header>
+    );
+  }
+}
+
+// access props in header
+
+ render(){ // must have
+    return ( // must have
+      <>  // one parent element use a fragment
+      <header>
+        <HeaderHello World {this.props.hearts}>
+        // access method 
+      <Main data={data} addHearts ={this.addHearts}
+
+
+send props to horned beast
+
+<hornedBeast
+  addHearts={this.props.addHearts}>
+
+
+  // add onclick to image
+
+  onclick={this.props.addHearts}
+```
+
+setting up a modal
+should live in app.js and so should the state
+```js
+
+
+
+```
