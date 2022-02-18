@@ -27,9 +27,16 @@ First list all components that render something based on that state. Then find a
 ## Higher-Order Functions
 
 **What is a “higher-order function”?**
+Functions that operate on other functions either by taking in arguments or by returning them
 
 **Explore the greaterThan function as defined in the reading. In your own words, what is line 2 of this function doing?**
+The greaterThan function is checking wether the the argument n is greater then m
 
 **Explain how either map or reduce operates, with regards to higher-order functions.**
+map() applies a function for us producing a new array that is the same length and only containing the content map has effected. This creates dryer code vs us building the loop ourselves therefore it will most likely contain less bugs
+
+<cite>Higher-order functions,https://eloquentjavascript.net/05_higher_order.html#h_xxCc98lOBK</cite>
 
 ## Things I want to know more about
+
+I think I would like to see someone work through static to interactivity as a demo
