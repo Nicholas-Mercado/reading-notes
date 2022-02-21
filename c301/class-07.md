@@ -27,18 +27,18 @@ How a computer system does a partial update
 
 ### Geocoding API
 
-Did you get your API key?
+Did you get your API key? **Yes**
 
 ### Weather Bit API
 
-Did you get your API key?
+Did you get your API key? **Yes**
 
 ### Yelp API Docs
 
-Did you get your API key?
+Did you get your API key? **Yes**
 
 ### The Movie DB API Docs
 
-Did you get your API key?
+Did you get your API key? **Yes**
 
 ## Things I want to know more about
