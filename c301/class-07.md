@@ -15,12 +15,19 @@ Most of the techniques that developers used later were just to get computers to 
 Representational State Transfer (REST)
 
 **What does a GET do?**
+
 How one computer system retrieves information from another
+
 **What does a POST do?**
+
 How one computer system adds information from another
+
 **What does PUT do?**
+
 How one computer system replaces information on another system
+
 **What does PATCH do?**
+
 How a computer system does a partial update
 
 ## API Keys
