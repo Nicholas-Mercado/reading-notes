@@ -30,15 +30,27 @@ URIs should be based on nouns, the actual resource
 
 **Give an example of a good URI. What does it mean to have a ‘chatty’ web API?**
 
+A API that makes a lot of web requests to a web server
+
 **Is this a good or a bad thing?**
+
+A API that is chatty is a bad thing cause it imposes a larger load on the webserver.
 
 **What status code does a successful GET request return?**
 
+status code 200 (OK)
+
 **What status code does an unsuccessful GET request return?**
+
+status code 201 (Created)
 
 **What status code does a successful POST request return?**
 
+status code 201 (Created)
+
 **What status code does a successful DELETE request return?**
+
+status code 204 (No Content)
 
 <cite>RESTful web API design,https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design</cite>
 
