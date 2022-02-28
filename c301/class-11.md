@@ -11,7 +11,7 @@
 **What kind of data is a good fit for an SQL database?**
 **Give a real world example.**
 
-good fit for the complex query intensive environment
+Good fit for the complex query intensive environment
 
 **What kind of data is a good fit a NoSQL database?**
 **Give a real world example.**
@@ -66,5 +66,7 @@ MongoDB is more flexible because you can store new / unrelated data in the same 
 NoSQL databases do not have consistency of data because if you enter the same data set it will take it without error
 
 <cite>AWS,https://aws.amazon.com/relational-database/#:~:text=A%20relational%20database%20is%20a,be%20represented%20in%20the%20database.</cite>
+
+<cite>SQL vs NoSQL Database Differences Explained with few Example DB,https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool</cite>
 
 ## Things I want to know more about
