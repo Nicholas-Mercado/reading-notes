@@ -6,7 +6,7 @@
 
 #### Fill in the chart below with five differences between SQL and NoSQL databases
 
-![SQLvsNoSQL](/c301/SQLvsNoSQL.jpg)
+![SQLvsNoSQL](SQLvsNoSQL.jpg)
 
 **What kind of data is a good fit for an SQL database?**
 **Give a real world example.**
