@@ -75,6 +75,8 @@
 
 * [Authentication](https://nicholas-mercado.github.io/reading-notes/c301/class-14.html)
 
-* [Authentication - 2](https://nicholas-mercado.github.io/reading-notes/c201/class-15.html)
+* [Authentication - 2](https://nicholas-mercado.github.io/reading-notes/c301/class-15.html)
   
 ## Code 401 - Advanced Software Development
+
+* [Prep Your Mindset](https://nicholas-mercado.github.io/reading-notes/c401/class-00.html)
