@@ -79,4 +79,4 @@
   
 ## Code 401 - Advanced Software Development
 
-* [Prep Your Mindset](https://nicholas-mercado.github.io/reading-notes/c401/class-00.html)
+* [Prep Your Mindset](https://nicholas-mercado.github.io/reading-notes/c401/prep_your_mindset.html)
