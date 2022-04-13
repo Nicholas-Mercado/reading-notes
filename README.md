@@ -82,3 +82,5 @@
 * [Prep Your Mindset](https://nicholas-mercado.github.io/reading-notes/c401/prep_your_mindset.html)
 
 * [Practice in the Terminal](https://nicholas-mercado.github.io/reading-notes/c401/command_line_tasks.html)
+
+* [Introduction to SQL](https://nicholas-mercado.github.io/reading-notes/c401/Introduction_to_SQL.html)
