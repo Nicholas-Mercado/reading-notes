@@ -84,3 +84,5 @@
 * [Practice in the Terminal](https://nicholas-mercado.github.io/reading-notes/c401/command_line_tasks.html)
 
 * [Introduction to SQL](https://nicholas-mercado.github.io/reading-notes/c401/Introduction_to_SQL.html)
+
+* [Topic](https://nicholas-mercado.github.io/reading-notes/c401/class_01.html)
