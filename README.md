@@ -79,10 +79,30 @@
   
 ## Code 401 - Advanced Software Development
 
+### PreWork
+
 * [Prep Your Mindset](https://nicholas-mercado.github.io/reading-notes/c401/prep_your_mindset.html)
 
 * [Practice in the Terminal](https://nicholas-mercado.github.io/reading-notes/c401/command_line_tasks.html)
 
 * [Introduction to SQL](https://nicholas-mercado.github.io/reading-notes/c401/Introduction_to_SQL.html)
 
+### Class Notes
+
 * [Topic](https://nicholas-mercado.github.io/reading-notes/c401/class_01.html)
+
+* [Testing and Modules](https://nicholas-mercado.github.io/reading-notes/c401/class_02.html)
+
+* [FileIO & Exceptions](https://nicholas-mercado.github.io/reading-notes/c401/class_03.html)
+
+* [Class 04: Topic](https://nicholas-mercado.github.io/reading-notes/c401/class_04.html)
+  
+* [Implementation: Linked Lists](https://nicholas-mercado.github.io/reading-notes/c401/class_05.html)
+
+<!--
+* [Testing and Modules](https://nicholas-mercado.github.io/reading-notes/c401/class_02.html)
+* [Testing and Modules](https://nicholas-mercado.github.io/reading-notes/c401/class_02.html)
+* [Testing and Modules](https://nicholas-mercado.github.io/reading-notes/c401/class_02.html)
+* [Testing and Modules](https://nicholas-mercado.github.io/reading-notes/c401/class_02.html)
+* [Testing and Modules](https://nicholas-mercado.github.io/reading-notes/c401/class_02.html)
+* [Testing and Modules](https://nicholas-mercado.github.io/reading-notes/c401/class_02.html) -->
