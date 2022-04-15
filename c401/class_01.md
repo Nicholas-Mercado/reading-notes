@@ -3,7 +3,7 @@
 ## Pain and Suffering
 
 - This hit pretty close to home. A couple of key points I found in the article tha really spoke to me. "Don’t experience the pain in silence".
-I have the tendecy to bunker down and not ask for help when I can not figure something out. Sometimes thi scan spiral and become a real time suck.
+I have the tendency to bunker down and not ask for help when I can not figure something out. Sometimes thi scan spiral and become a real time suck.
 - The second thing that I really took to hear was "Find the common thread that makes the pain worthwhile, that puts the pain into perspective. You’re here because you chose to invest in a different life. A better life.". Keeping my eye on the prize even when I feel horrible really helps.
 
 <cite>Pain vs. Suffering, <https://codefellows.github.io/code-401-python-guide/curriculum/class-01/notes/pain_suffering> </cite>
@@ -49,6 +49,8 @@ x = x + 1
 
 nums.append(7)
 
-Instead of mutating data make a new data
+Instead of mutating data make new data
 
 Names have no type and values have no scope
+
+## Things I want to know more about
