@@ -16,9 +16,11 @@ It is ideal to separate your tests from your production code
 
 ### The Cycle
 
+A very simple cycle that contains three steps
+
 - Write a unit test and make sure it fails
 
-- Write code that makes it pass teh test
+- Write code that make it pass the test
 
 - Refactor the code
 
@@ -67,3 +69,5 @@ int fact(int n)
 ```
 
 <cite>Sonal Tuteja,Recursion,<https://www.geeksforgeeks.org/recursion/></cite>
+
+## Things I want to know more about
