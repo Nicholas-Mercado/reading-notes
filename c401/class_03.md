@@ -4,9 +4,9 @@
 
 Useful things I learned in this article
 
-You can use the special characters double-dot (..) to move one directory up.--
+The double-dot (..) can be used to move one directory up.
 
-The double-dot (..) can be chained together to traverse multiple directories above the current directory. ../../ --
+The double-dot (..) can be chained together to move up as many directories as you want ../../ 
 
 Opening a file and closing file
 
@@ -82,7 +82,6 @@ else:
 ### Cleaning Up After Using finally
 
 finally - allows you to always run code.
-
 
 ```py
 try:
