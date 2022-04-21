@@ -25,6 +25,7 @@ Recursive functions share a common structure made up of two parts
 - recursive case
 
 [Thinking Recursively in Python](https://realpython.com/python-thinking-recursively/#dear-pythonic-santa-claus)
+
 ### Maintaining State
 
 To maintain state during recursion you have to either:
@@ -43,12 +44,10 @@ A data structure is recursive if it can be defined in terms of a smaller version
 
 ## Pytest Fixtures and Coverage
 
-## Fixtures
-
-fixtures - objects can contain data you want to share across tests
+Fixtures - objects can contain data you want to share across tests
 
 ## Fixture errors
 
- error - does not mean test fail but test could not preform
+ Error - does not mean test fail but test could not preform
 
  Its a good idea to cut out as many unneeded dependencies
