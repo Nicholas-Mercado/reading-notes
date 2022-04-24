@@ -99,10 +99,14 @@
   
 * [Implementation: Linked Lists](https://nicholas-mercado.github.io/reading-notes/c401/class_05.html)
 
-<!--
-* [Testing and Modules](https://nicholas-mercado.github.io/reading-notes/c401/class_02.html)
-* [Testing and Modules](https://nicholas-mercado.github.io/reading-notes/c401/class_02.html)
-* [Testing and Modules](https://nicholas-mercado.github.io/reading-notes/c401/class_02.html)
-* [Testing and Modules](https://nicholas-mercado.github.io/reading-notes/c401/class_02.html)
-* [Testing and Modules](https://nicholas-mercado.github.io/reading-notes/c401/class_02.html)
-* [Testing and Modules](https://nicholas-mercado.github.io/reading-notes/c401/class_02.html) -->
+* [Ten Thousand Game 1](https://nicholas-mercado.github.io/reading-notes/c401/class_06.html)
+
+* [Ten Thousand Game 2](https://nicholas-mercado.github.io/reading-notes/c401/class_07.html)
+
+* [Ten Thousand Game 3](https://nicholas-mercado.github.io/reading-notes/c401/class_08.html)
+
+* [Ten Thousand Game 4](https://nicholas-mercado.github.io/reading-notes/c401/class_09.html)
+  
+* [Trees](https://nicholas-mercado.github.io/reading-notes/c401/class_10.html)
+  
+<!-- * [Testing and Modules](https://nicholas-mercado.github.io/reading-notes/c401/class_02.html) -->
