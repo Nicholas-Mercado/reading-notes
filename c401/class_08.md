@@ -1,5 +1,11 @@
 # Ten Thousand 3
 
+## Great site I found for explaining converting loops to list comprehension
+
+![lc](img/lc.png)
+
+<cite>How to Convert Loops to List Comprehensions in Python,https://towardsdatascience.com/how-to-convert-loops-to-list-comprehension-in-python-15efcc696759</cite>
+
 ## List Comprehensions
 
 list Comprehensions syntax
@@ -48,6 +54,8 @@ x = [double(x) for x in range(10)]
 [2, 4, 6, 8, 10, 12, 14, 16, 18]
 
 ```
+
+<cite>List Comprehensions in Python,https://www.pythonforbeginners.com/basics/list-comprehensions-in-python</cite>
 
 ## Parsing a file using list comprehension
 
