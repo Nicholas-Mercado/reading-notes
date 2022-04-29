@@ -107,6 +107,6 @@
 
 * [Ten Thousand Game 4](https://nicholas-mercado.github.io/reading-notes/c401/class_09.html)
   
-* [Trees](https://nicholas-mercado.github.io/reading-notes/c401/class_10.html)
+* [Stacks and Queues](https://nicholas-mercado.github.io/reading-notes/c401/class_10.html)
   
 <!-- * [Testing and Modules](https://nicholas-mercado.github.io/reading-notes/c401/class_02.html) -->
