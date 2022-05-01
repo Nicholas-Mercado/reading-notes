@@ -109,4 +109,14 @@
   
 * [Stacks and Queues](https://nicholas-mercado.github.io/reading-notes/c401/class_10.html)
   
+* [Data Analysis](https://nicholas-mercado.github.io/reading-notes/c401/class_11.html)
+  
+* [Pandas](https://nicholas-mercado.github.io/reading-notes/c401/class_12.html)
+  
+* [Linear Regressions](https://nicholas-mercado.github.io/reading-notes/c401/class_13.html)
+  
+* [Data Visualization](https://nicholas-mercado.github.io/reading-notes/c401/class_14.html)
+  
+* [Trees](https://nicholas-mercado.github.io/reading-notes/c401/class_15.html)
+  
 <!-- * [Testing and Modules](https://nicholas-mercado.github.io/reading-notes/c401/class_02.html) -->
