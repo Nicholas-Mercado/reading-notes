@@ -119,4 +119,12 @@
   
 * [Trees](https://nicholas-mercado.github.io/reading-notes/c401/class_15.html)
   
+* [Serverless Functions](https://nicholas-mercado.github.io/reading-notes/c401/class_16.html)
+  
+* [Web Scraping](https://nicholas-mercado.github.io/reading-notes/c401/class_17.html)
+  
+* [Cryptography](https://nicholas-mercado.github.io/reading-notes/c401/class_18.html)
+  
+* [Automation](https://nicholas-mercado.github.io/reading-notes/c401/class_19.html)
+  
 <!-- * [Testing and Modules](https://nicholas-mercado.github.io/reading-notes/c401/class_02.html) -->
