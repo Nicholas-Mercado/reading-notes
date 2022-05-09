@@ -21,3 +21,6 @@ What is FaaS?
 - There is a significant cost savings for spiky workloads but not steady workloads
 - serverless scale up and down to zero, this may be noticeable to user
 - difficult to debug
+
+
+[vercel docs](https://vercel.com/docs)
