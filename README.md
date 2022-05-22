@@ -1,7 +1,7 @@
 # Reading Notes
 
-
 ## Code 102 Reading Notes
+
 * [About Me](https://nicholas-mercado.github.io/reading-notes/c102/home.html)<br>
 * [CSS](https://nicholas-mercado.github.io/reading-notes/c102/css.html)<br>
 * [Git](https://nicholas-mercado.github.io/reading-notes/c102/git.html)<br>
@@ -61,7 +61,7 @@
 
 * [REST](https://nicholas-mercado.github.io/reading-notes/c301/class-07.html)
 
-* [ APIs](https://nicholas-mercado.github.io/reading-notes/c301/class-08.html)
+* [APIs](https://nicholas-mercado.github.io/reading-notes/c301/class-08.html)
 
 * [Functional Programming](https://nicholas-mercado.github.io/reading-notes/c301/class-09.html)
 
@@ -126,5 +126,13 @@
 * [Cryptography](https://nicholas-mercado.github.io/reading-notes/c401/class_18.html)
   
 * [Automation](https://nicholas-mercado.github.io/reading-notes/c401/class_19.html)
+
+* [Intro to Django](https://nicholas-mercado.github.io/reading-notes/c401/class_26.html)
   
+* [Django Models](https://nicholas-mercado.github.io/reading-notes/c401/class_27.html)
+  
+* [Django CRUD and Forms](https://nicholas-mercado.github.io/reading-notes/c401/class_28.html)
+  
+* [Django Custom User](https://nicholas-mercado.github.io/reading-notes/c401/class_29.html)
+
 <!-- * [Testing and Modules](https://nicholas-mercado.github.io/reading-notes/c401/class_02.html) -->
