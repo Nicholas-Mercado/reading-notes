@@ -1,59 +1,61 @@
-# Django Custom User
+# Django REST Framework & Docker
 
-## Django Custom User Model
+## Beginner’s Guide to Docker
 
-Django has a built in user model for authentication.
+**Docker** - is a tool used to automate the development of apps in a container so apps can work in different environments
 
-see tutorial [here](https://learndjango.com/tutorials/django-login-and-logout-tutorial)
+The docker container holds all the dependencies for a application. This allows for:
 
-Django recommends always using a custom user model for new projects
+- multiple containers to run on the same hardware
+- each container are in isolated environments
+- high productivity
+- fast to configure
 
-link to setup [here](https://learndjango.com/tutorials/django-custom-user-model)
+### Image and Containers
 
-### AbstractUser vs AbstractBaseUser
+**Image** - a snapshot in time of a project
 
-There are two modern ways to create custom user models
+**Container** - a running instance of the image
 
-AbstractBaseUser - requires so much more work
+#### Creating a custom image terminology
 
-AbstractUser - is more of a default configuration
+- Dockerfile is the instructions for a image
+- image is a snapshot of the instructions at a specific time
+- docker-compose.yml says how to make the image
 
-### Creating a custom user model
+### Create a image
 
-This requires four steps
+First create a local directory and inside place a python folder
 
-- update django_project/settings.py
-- create a new CustomUser model
-- create new UserCreation and UserChangeForm
-- update the admin
-
-## Abstract User, User Profile and Signals in Django
-
-All Django applications have a user model by default
-
-includes:
-
-- Email
-- Username
-- password
-- Storage Quota
-- Picture
-
-How to add extra fields to model
-
-```py
-import django.contrib.auth.models AbstractUser
-# Add extra fields to user model
-
-class User(AbstractUser):
-    quota = models.IntegerField()
+```python
+cd ~/Desktop
+$ mkdir code && cd code
+$ mkdir python3.7 && cd python3.7
 ```
 
-```py
-settings.AUTH_USER_MODEL
+Create a Dockerfile
+
+```python
+touch Dockerfile
+# in Dockerfile add this code
+FROM python:3.7-alpine
 ```
 
-[Abstract User, User Profile and Signals in Django](https://www.youtube.com/watch?v=EudKs1HPUfE)
+### Build Images
 
+```python
+# Don’t forget that period . at the end of the command!
+docker image build .
+```
 
+Use  to check
 
+```py
+docker image ls
+```
+
+[A Beginner's Guide to Docker](https://wsvincent.com/beginners-guide-to-docker/)
+
+[Django for APIs](https://djangoforapis.com/library-website-and-api/)
+
+[What Is Docker?](https://www.youtube.com/watch?v=rOTqprHv1YE)
