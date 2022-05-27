@@ -135,6 +135,6 @@
   
 * [Django REST Framework & Docker](https://nicholas-mercado.github.io/reading-notes/c401/class_29.html)
 
-* [Testing and Modules](https://nicholas-mercado.github.io/reading-notes/c401/class_30.html)
+* [Hashtables](https://nicholas-mercado.github.io/reading-notes/c401/class_30.html)
 
 <!-- * [Testing and Modules](https://nicholas-mercado.github.io/reading-notes/c401/class_02.html) -->
