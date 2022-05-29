@@ -137,4 +137,13 @@
 
 * [Hashtables](https://nicholas-mercado.github.io/reading-notes/c401/class_30.html)
 
+* [Permissions & Postgresql](https://nicholas-mercado.github.io/reading-notes/c401/class_32.html)
+  
+* [Authentication & Production Server](https://nicholas-mercado.github.io/reading-notes/c401/class_33.html)
+  
+* [API Deployment](https://nicholas-mercado.github.io/reading-notes/c401/class_34.html)
+  
+* [Graphs](https://nicholas-mercado.github.io/reading-notes/c401/class_35.html)
+  
+
 <!-- * [Testing and Modules](https://nicholas-mercado.github.io/reading-notes/c401/class_02.html) -->
