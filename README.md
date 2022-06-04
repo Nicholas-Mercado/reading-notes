@@ -145,5 +145,13 @@
   
 * [Graphs](https://nicholas-mercado.github.io/reading-notes/c401/class_35.html)
   
+* [DSA Review](https://nicholas-mercado.github.io/reading-notes/c401/class_36.html)
 
+* [React 1](https://nicholas-mercado.github.io/reading-notes/c401/class_37.html)
+
+* [React 2](https://nicholas-mercado.github.io/reading-notes/c401/class_38.html)
+
+* [React 3](https://nicholas-mercado.github.io/reading-notes/c401/class_39.html)
+
+<!-- * [Testing and Modules](https://nicholas-mercado.github.io/reading-notes/c401/class_02.html) -->
 <!-- * [Testing and Modules](https://nicholas-mercado.github.io/reading-notes/c401/class_02.html) -->
