@@ -153,12 +153,12 @@
 
 * [React 3](https://nicholas-mercado.github.io/reading-notes/c401/class_39.html)
 
-* [React 4](https://nicholas-mercado.github.io/reading-notes/c401/class_42.html)
+* [React 4](https://nicholas-mercado.github.io/reading-notes/c401/class_41.html)
   
-* [Pythonisms](https://nicholas-mercado.github.io/reading-notes/c401/class_43.html)
+* [Pythonisms](https://nicholas-mercado.github.io/reading-notes/c401/class_42.html)
   
-* [Ethics Submission Requirements](https://nicholas-mercado.github.io/reading-notes/c401/class_43b.html)
+* [Ethics Submission Requirements](https://nicholas-mercado.github.io/reading-notes/c401/class_42b.html)
   
-* [Open-Source Software Contribution](https://nicholas-mercado.github.io/reading-notes/c401/class_02.html)
+* [Open-Source Software Contribution](https://nicholas-mercado.github.io/reading-notes/c401/class_43.html)
 
 
